@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: protobuf-java-3.11.4.jar jakarta.activation-api-2.1.3.jar my
+ sql-connector-java-8.0.28.jar jakarta.xml.bind-api-4.0.2.jar dotenv-jav
+ a-3.0.0.jar gson-2.10.1.jar
+
